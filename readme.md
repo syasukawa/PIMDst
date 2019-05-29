@@ -6,4 +6,8 @@
 s-yasukawa[at-mark]brain.kyutech.ac.jp  
 
 講義中に参照してください  
- 
+
+1. MATLABで基礎信号処理・GUI開発演習
+2. Simulinkで1リンクマニピュレータ(参照軌跡・プラントモデル・制御器設計)に関する演習
+3. MATLAB/Simulink-ROS連携でturtlebot3の制御演習（gazebo上）
+4. MATLAB/Simulink-ROS連携でturtlebot3の制御演習（実機）
